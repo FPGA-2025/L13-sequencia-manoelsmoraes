@@ -42,7 +42,7 @@ module Sequencia (
                     encontrado <= 1'b1;  // Palavra encontrada
                 end
             end
-            // fim
+            // fim manter registro -> seq1 erro log.
         end
     end
 
