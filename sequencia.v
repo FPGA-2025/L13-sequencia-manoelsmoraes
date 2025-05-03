@@ -42,7 +42,7 @@ module Sequencia (
                     encontrado <= 1'b1;  // Palavra encontrada
                 end
             end
-            // Caso contrário, mantém tudo como está
+            // fim
         end
     end
 
